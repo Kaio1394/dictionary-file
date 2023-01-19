@@ -1,0 +1,10 @@
+LICENCE
+README.md
+setup.py
+dictionary_file/__init__.py
+dictionary_file/dictionary.py
+dictionary_file_lib.egg-info/PKG-INFO
+dictionary_file_lib.egg-info/SOURCES.txt
+dictionary_file_lib.egg-info/dependency_links.txt
+dictionary_file_lib.egg-info/requires.txt
+dictionary_file_lib.egg-info/top_level.txt

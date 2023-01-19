@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: dictionary-file-lib
+Version: 0.0.3
+Summary: Keywords lib to read a txt file
+Author: Kaio Cândido Santiago
+Author-email: kaio.santiago.13@hotmail.com
+License: MIT License
+Keywords: dictionary lib
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+# Repositorio oficial da lib
