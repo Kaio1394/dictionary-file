@@ -4,7 +4,7 @@ with open("README.md", "r") as arq:
     readme = arq.read()
 
 setup(name='dictionary-file-lib',
-    version='0.0.3',
+    version='0.0.4',
     license='MIT License',
     author='Kaio Cândido Santiago',
     long_description=readme,
